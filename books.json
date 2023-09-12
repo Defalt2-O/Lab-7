@@ -1,0 +1,22 @@
+[
+    {
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy"
+    },
+    {
+      "title": "A Song Of Ice And Fire",
+      "author": "George R.R. Martin",
+      "genre": "Fantasy"
+    },
+    {
+      "title": "A Court of Thorns and Roses",
+      "author": "Sarah J Maas",
+      "genre": "Fantasy"
+    },
+    {
+      "title": "Fantastical Beasts and where to find them",
+      "author": "J.K. Rowling",
+      "genre": "Fnatasy"
+    }
+]
